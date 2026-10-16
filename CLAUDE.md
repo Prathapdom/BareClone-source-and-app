@@ -2,7 +2,7 @@
 
 BareClone is a native C++17 / Win32 file-content search app for Windows (an independent BareGrep-style tool). It has no frameworks or runtime dependencies: one portable, statically linked x64 exe. The user-facing docs are in README.md, and STORE.md covers MSIX packaging. VALIDATION.md records what has and hasn't been verified.
 
-This folder is **not a git repository**. There is no history to diff against, so be careful with destructive edits.
+This folder is a local git repository (no remote). `dist/` build outputs are gitignored.
 
 ## Files
 
