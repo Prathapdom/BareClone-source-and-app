@@ -79,3 +79,7 @@ g++ -std=c++17 -O3 -static benchmark.cpp -o dist/benchmark.exe
 See [STORE.md](STORE.md) for MSIX packaging and the remaining submission steps. Packaging templates are included; this is not yet a certified Store submission.
 
 BareClone is an independent implementation. It includes no BareGrep code, branding, or visual assets.
+
+## License
+
+[MIT](LICENSE).
